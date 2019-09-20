@@ -30,7 +30,7 @@
               style="transform: translateX(55%)"
             />
             <base-heading class="info--text">
-              Organisations!!
+              Organisation
             </base-heading>
 
             
