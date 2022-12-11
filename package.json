@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@mdi/font": "^3.3.92",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "roboto-fontface": "*",
     "vue": "^2.5.21",
     "vuetify": "^2.0.0-alpha.2",
